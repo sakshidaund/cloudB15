@@ -1,2 +1,6 @@
 EC2--elastic compute cloud
 s3--simple storage service
+sns--simple notification service
+
+
+full stack java
